@@ -9,3 +9,12 @@ Indonesia is a country that is blessed with very fertile natural conditions. Of 
 
 ## Concept
 Plant Clinic is a web app that can detect diseases in plants. With the image recognition feature, if you upload photos of your plants to this website, the computer can detect whether your plants are healthy or sick. Then, if sick, of course the question will arise, what disease attacks this plant? What caused it? How to handle it? Then, how to prevent it from attacking again in the future? Everything can be found on this website. So far, the plants that the disease can detect are apples, cherries, corn, grapes, peaches, peppers, potatoes, strawberries, and tomatoes. Of course, I am always collecting information about other plants, because the more types of plants I can detect, and the more data, of course, the better products will arise.
+
+
+## How to use
+Here's how to use the Plant-Clinic application.
+
+#### Visit the following page
+```bash
+https://plant-clinic.herokuapp.com/
+```
